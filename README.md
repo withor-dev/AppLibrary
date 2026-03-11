@@ -37,14 +37,12 @@ Conforme os requisitos do desafio técnico, foram aplicados os seguintes diferen
 
 ---
 
-## 🛠️ Como executar o projeto localmente
-
-### 1. Pré-requisitos
+## Pré-requisitos
 * [.NET SDK](https://dotnet.microsoft.com/download) (versão 8.0 ou superior)
 * [Node.js](https://nodejs.org/) (versão 18.0 ou superior)
 * [PostgreSQL](https://www.postgresql.org/download/) instalado e rodando.
 
-### 2. Clonando o Repositório
+##Clonando o Repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+git clone [https://github.com/withor-dev/AppLibrary.git](https://github.com/withor-dev/AppLibrary.git)
+cd AppLibrary
